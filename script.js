@@ -1,3 +1,8 @@
+/**
+ * Improvement to add to the app
+ * Play and Pause button on the same position: when we press play the buttonPlay disappear to show the buttonPause
+ * Add a timeline for the current song playing
+ */
 const playlistSongs = document.getElementById("playlist-songs");
 const playButton = document.getElementById("play");
 const pauseButton = document.getElementById("pause");
